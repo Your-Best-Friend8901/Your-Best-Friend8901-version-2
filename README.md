@@ -45,7 +45,7 @@ The "Your Best Friend" project is a concept for a self-evolving and self-develop
 
 Project Name: Your Best Friend AI
 
-Created by: Your Name
+Created by: Your Best Friend
 Age: 16
 Date: April 9, 2025
 
